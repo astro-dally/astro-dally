@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/5746f560-4c93-4265-9b60-2d2d3ad10667" width="260"/>
+<img src="https://github.com/user-attachments/assets/5746f560-4c93-4265-9b60-2d2d3ad10667" width="340"/>
 
 ### ⏳ *time crystallizes in code* ⏳
 
@@ -18,7 +18,7 @@
 
 ---
 
-> **while** *curiosity* **exists:**  
+### **while** *curiosity* **exists:**  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`explore()` the unknown  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`build()` the impossible  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`break()` the ordinary  
@@ -28,31 +28,11 @@
 
 ---
 
-<table>
-<tr>
-<td align="center" width="50%">
+<img src="https://github.com/user-attachments/assets/d34913a6-2f89-415c-b65f-70ef6c473d80" width="110"/>
 
-<img src="https://github.com/user-attachments/assets/d34913a6-2f89-415c-b65f-70ef6c473d80" width="100"/>
+**🏴‍☠️ inherited will · dreams of code · adventure never stops**
 
-**🏴‍☠️ ONE PIECE PROTOCOL**  
-*inherited will*  
-*dreams of code*  
-*adventure never stops*
-
-</td>
-<td align="center" width="50%">
-
-**🌌 COSMIC STATUS**
-
-![](https://img.shields.io/badge/⚡_drifter-A78BFA?style=for-the-badge&labelColor=0f0f23)
-
-![](https://img.shields.io/badge/♥_open_source-F472B6?style=for-the-badge&labelColor=0f0f23)
-
-![](https://img.shields.io/badge/🌊_exploring-34D399?style=for-the-badge&labelColor=0f0f23)
-
-</td>
-</tr>
-</table>
+![](https://img.shields.io/badge/⚡_drifter-A78BFA?style=for-the-badge&labelColor=0f0f23) ![](https://img.shields.io/badge/♥_open_source-F472B6?style=for-the-badge&labelColor=0f0f23) ![](https://img.shields.io/badge/🌊_exploring-34D399?style=for-the-badge&labelColor=0f0f23)
 
 ---
 
