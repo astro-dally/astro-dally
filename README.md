@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/5746f560-4c93-4265-9b60-2d2d3ad10667" width="340"/>
+<img src="https://github.com/user-attachments/assets/5746f560-4c93-4265-9b60-2d2d3ad10667" width="160"/>
 
 ### ⏳ *time crystallizes in code* ⏳
 
